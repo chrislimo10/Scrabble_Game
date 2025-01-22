@@ -1,2 +1,1 @@
-1) Κάνοντας δεξί κλικ στο αρχείο main βλέπουμε την εκτέλεση του προγράμματος ενός παιχνιδιού Scrabble.
-2) Το πρόγραμμα έχει υλοποιηθεί σε κώδικα Python. 
+ The repository has been implemented in Python code and for the run the programm we need to right double click on the main file to see the execution of the Scrabble game program
